@@ -15,3 +15,6 @@ s
 Csrc/main/java/com/secure/api/SecureApiCommunicationApplication.java,d\d\dd403288fec896f5caf7ad9a54ac836f5052f087
 9
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
