@@ -13,3 +13,5 @@ p
 @src/main/java/com/secure/api/security/SecurityConfiguration.java,c\5\c5a768b4ca1ec7c6cc6b8745e8c8f26bd6b54bdc
 s
 Csrc/main/java/com/secure/api/SecureApiCommunicationApplication.java,d\d\dd403288fec896f5caf7ad9a54ac836f5052f087
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d

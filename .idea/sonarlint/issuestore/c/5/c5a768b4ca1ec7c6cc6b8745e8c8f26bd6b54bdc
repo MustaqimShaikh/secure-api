@@ -1,0 +1,31 @@
+
+]	java:S125"<This block of commented-out lines of code should be removed.(”Ÿ÷ıÿÿÿÿ8‰…Ö•÷1
+P
+java:S1128"3Remove this unused import 'jakarta.servlet.Filter'.(ÏíÉí8‹…Ö•÷1
+e
+java:S1128"HRemove this unused import 'org.springframework.context.annotation.Bean'.(‚î‰Ş8Œ…Ö•÷1
+b
+java:S1128"@Remove this unused import 'org.springframework.http.HttpMethod'.(Ê¨Ä¡øÿÿÿÿ8Œ…Ö•÷1
+€
+java:S1128"^Remove this unused import 'org.springframework.security.authentication.AuthenticationManager'.(ğş–şÿÿÿÿ8…Ö•÷1
+ˆ
+java:S1128"fRemove this unused import 'org.springframework.security.authentication.dao.DaoAuthenticationProvider'.(Ã‚öşÿÿÿÿ8…Ö•÷1
+§
+java:S1128	"„Remove this unused import 'org.springframework.security.config.annotation.authentication.configuration.AuthenticationConfiguration'.(İÍ»æúÿÿÿÿ8…Ö•÷1
+‚
+java:S1128
+"eRemove this unused import 'org.springframework.security.config.annotation.web.builders.HttpSecurity'.(ƒµ‹Š8…Ö•÷1
+
+java:S1128"rRemove this unused import 'org.springframework.security.config.annotation.web.configurers.AbstractHttpConfigurer'.(Ç¼Î8…Ö•÷1
+
+java:S1128"]Remove this unused import 'org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder'.(åÅÚ…ûÿÿÿÿ8…Ö•÷1
+{
+java:S1128"YRemove this unused import 'org.springframework.security.crypto.password.PasswordEncoder'.(‰¡ßáÿÿÿÿÿ8‘…Ö•÷1
+x
+java:S1128"VRemove this unused import 'org.springframework.security.web.AuthenticationEntryPoint'.(Éªı»ùÿÿÿÿ8’…Ö•÷1
+n
+java:S1128"QRemove this unused import 'org.springframework.security.web.SecurityFilterChain'.(Ï×ÜÌ8“…Ö•÷1
+
+java:S1128"qRemove this unused import 'org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter'.(÷ìïŠ8“…Ö•÷1
+‚
+java:S1128"eRemove this unused import 'org.springframework.security.config.http.SessionCreationPolicy.STATELESS'.(Ò©ÍÙ8”…Ö•÷1

@@ -1,2 +1,1 @@
-# secure-api
-# secure-api
+# secure-api-communication

@@ -29,7 +29,7 @@ public class JwtTokenController {
   }
 
   @PostMapping("/decode")
-  public ResponseEntity<Claims> decodeToken(@RequestHeader("Authorization") String authToken,
+  public ResponseEntity<Claims> decodeToken(@RequestHeader("JwtAuthorization") String authToken,
                                             @RequestHeader("Secret") String authSecret) {
     Claims claims = jwtTokenService.decodeJWT(authToken.split(" ")[1], authSecret);
     return new ResponseEntity<>(claims, HttpStatus.OK);
