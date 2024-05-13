@@ -27,6 +27,7 @@ replay_pid*
 
 HELP.md
 target/
+production/
 .mvn/
 !**/src/main/**/target/
 !**/src/test/**/target/
