@@ -8,6 +8,7 @@ public class SecureApiCommunicationApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SecureApiCommunicationApplication.class, args);
+		//Just for testing
 	}
 
 }
